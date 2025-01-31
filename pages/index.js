@@ -38,7 +38,7 @@ export default function Home() {
             <li>
               Hi<code>pages/index.js</code>.
             </li>
-            <li>Save and see your changes instantly.</li>
+            <li>Save and see your changinstantly.</li>
           </ol>
 
           <div className={styles.ctas}>
